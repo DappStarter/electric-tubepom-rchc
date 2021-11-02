@@ -1,0 +1,19 @@
+{
+    "name": "Live",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "Micoin",
+        "/category/asset_value_tracking/core-token/symbol": "Mi-c",
+        "/category/asset_value_tracking/core-token/decimals": ".0000001",
+        "/category/asset_value_tracking/core-token/supply": "1000000",
+        "/category/nft/core-custom_nft": true,
+        "/category/nft/core-custom_nft/template": "none",
+        "/category/file_storage/core-ipfs": true,
+        "/category/file_storage/core-ipfs/mode": "multiple",
+        "/category/collection/core-entity": true
+    }
+}
